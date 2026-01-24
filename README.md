@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Cait! 🦆 💗
 
-<!--
-**cpatsches/cpatsches** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**⋆｡°✩ About Me ✩°｡⋆**
 
-Here are some ideas to get you started:
+I’m studying UX and web development, and I’m still a beginner at coding. 👩🏼‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**⋆｡°✩ Things I Love ✩°｡⋆**
+
+- 🌏 Language Learning & Culture
+- 🎨 Oil Painting
+- 🧶 Crafting
+
+**⋆｡°✩ Links ✩°｡⋆**
+
+[LinkedIn](https://linkedin.com/in/caitlinpatsches)
+
+**⋆｡°✩ Stats ✩°｡⋆**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cpatsches&show_icons=true)
