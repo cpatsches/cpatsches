@@ -17,4 +17,4 @@ I’m proficient in Figma and hope to work as a UX designer or strategist after 
 
 **⋆｡°✩ Stats ✩°｡⋆**
 
-https://github-readme-stats.vercel.app/api?username=cpatsches&show_icons=true
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cpatsches&show_icons=true&cache_seconds=86400)
